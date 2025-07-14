@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Health Insights for Africa (HIFA)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #fdfdfd;
+            color: #222;
+        }
+
+        header {
+            background-color: #003300;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h2 {
+            color: #006600;
+        }
+
+        .highlight {
+            color: #8B4513; /* Brown */
+        }
+
+        footer {
+            background-color: #000;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li::before {
+            content: "• ";
+            color: #006600;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Health Insights for Africa (HIFA)</h1>
+    <p class="highlight">From Data to Impact—Shaping the Future of Health and Social Development</p>
+</header>
+
+<section>
+    <h2>Strategy on a Page</h2>
+    <p><strong>The Context:</strong> Bridging the Gap Between Health Data and Actionable Impact in Africa.</p>
+    <p><strong>Tension Point:</strong> Data Overload vs. Strategic Action.</p>
+    <p><strong>Audience Truth:</strong> Empowered Decision-Making for a Resilient Health System.</p>
+    <p><strong>Value Proposition:</strong> Transforming Data into Strategy, Action, and Impact.</p>
+</section>
+
+<section>
+    <h2>About Us</h2>
+    <p>At Health Insights for Africa, we bridge the gap between data and impact in Africa’s health and social development sectors.</p>
+    <p>We specialize in:</p>
+    <ul>
+        <li>Health Systems Research</li>
+        <li>Health Systems Analysis</li>
+        <li>Strategy Development</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Why We Exist</h2>
+    <ul>
+        <li>Information Overload</li>
+        <li>Skills Gap</li>
+        <li>Missed Opportunities</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Our Approach</h2>
+    <p>We blend rigorous research, strategic analysis, and human-centered design to create data-driven yet practical insights.</p>
+</section>
+
+<section>
+    <h2>Our Commitment</h2>
+    <ul>
+        <li>Data for Impact</li>
+        <li>Collaboration</li>
+        <li>Sustainability</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Let’s Work Together</h2>
+    <p>Looking to strengthen your organization’s strategic direction or shape data-driven policies? We’re here to help.</p>
+    <p><strong>Contact:</strong> [Add your contact info here]</p>
+</section>
+
+<footer>
+    &copy; 2025 Health Insights for Africa (HIFA). All rights reserved.
+</footer>
+
+</body>
+</html>
